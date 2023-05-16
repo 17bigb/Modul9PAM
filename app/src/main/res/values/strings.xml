@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Firebase1</string>
+
+    <string-array name="fakultas" fontFamily="@drawable/mm" textColor="#000000">
+        <item fontFamily="@drawable/mm">FILKOM</item>
+        <item>FEB</item>
+
+
+    </string-array>
+    <string-array name="prodi" fontFamily="@drawable/mm" textColor="#000000">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknologi Informasi</item>
+        <item>Pendidikan Teknologi Informasi</item>
+        <item>Teknik Komputer</item>
+        <item>Ilmu Perbankan</item>
+        <item>Akuntansi</item>
+        <item>Bisnis Digital</item>
+
+    </string-array>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="uid">Uid</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome">Selamat Datang,</string>
+    <string name="add_note">Tambah Note</string>
+</resources>
